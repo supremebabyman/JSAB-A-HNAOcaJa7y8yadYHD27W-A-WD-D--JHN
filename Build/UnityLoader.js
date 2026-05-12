@@ -1801,7 +1801,7 @@ var UnityLoader = UnityLoader || {
 				text: "OK"
 			}];
 			var n = document.createElement("div");
-			n.style.cssText = "position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: center; border: 1px solid black; padding: 5px; background: #000000";
+			n.style.cssText = "position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: center; border: 1px solid black; padding: 5px; background: #e3e3e3";
 			var o = document.createElement("span");
 			o.textContent = t, n.appendChild(o), n.appendChild(document.createElement("br"));
 			for (var i = 0; i < r.length; i++) {
